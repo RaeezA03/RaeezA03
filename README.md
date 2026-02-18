@@ -20,7 +20,7 @@ BSc (Hons) Computer Science
 BSc Computer Science 
 2022 - 2025
 
--Main CS Modules: Data Structures, Computer Architecture, Operating Systems, Articial Intelligence, Computer Networking, Machine Learning, Software Enginering and Databases
+- Main CS Modules: Data Structures, Computer Architecture, Operating Systems, Articial Intelligence, Computer Networking, Machine Learning, Software Enginering and Databases
 
 **Fairbain College (FBC)**
 National Senior Certificate; Bachelor's Pass
