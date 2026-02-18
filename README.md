@@ -57,11 +57,11 @@ National Senior Certificate; Bachelor's Pass
 ## D. Projects & Competitions
 
 ### 🔹 Brain.exe
--All in one study platform for students. Included voice-chat, A.I tutir, logbook and community forums for questions/discusions.
+- All in one study platform for students. Included voice-chat, A.I tutir, logbook and community forums for questions/discusions.
 -Role: had to build the backend for the forum page with all the funcstions and the logbook as well
 
 ### 🔹 F1 Database manager
--SQL based f1 manager, that had all of the 2024 seasons data in tables, connected to a python scipt that could take any sql based prompt related to the content and answer it
+- SQL based f1 manager, that had all of the 2024 seasons data in tables, connected to a python scipt that could take any sql based prompt related to the content and answer it
 -Role: had to build the backend for the python script and connect it to the database. I was also group leader.
 
 ### 🔹 Raspberry Pi Sound detector
