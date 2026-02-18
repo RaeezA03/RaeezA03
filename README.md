@@ -36,7 +36,7 @@ National Senior Certificate; Bachelor's Pass
 - Foundation of Machine learning
 - Circuit Design (Fritzing)
 - Network Tools: Wireshark, Nmap and GNS
-- COmputational modeling in mathematics
+- Computational modeling in mathematics
 
 ### 🔹 Soft Skills
 - Strong work ethic
@@ -58,19 +58,19 @@ National Senior Certificate; Bachelor's Pass
 
 ### 🔹 Brain.exe
 - All in one study platform for students. Included voice-chat, A.I tutir, logbook and community forums for questions/discusions.
--Role: had to build the backend for the forum page with all the funcstions and the logbook as well
+- Role: had to build the backend for the forum page with all the funcstions and the logbook as well
 
 ### 🔹 F1 Database manager
 - SQL based f1 manager, that had all of the 2024 seasons data in tables, connected to a python scipt that could take any sql based prompt related to the content and answer it
--Role: had to build the backend for the python script and connect it to the database. I was also group leader.
+- Role: had to build the backend for the python script and connect it to the database. I was also group leader.
 
 ### 🔹 Raspberry Pi Sound detector
 - a raspberry pi circuit that had a micrphone which communicated with a server to determine when the sound in an environment was too loud, where it will let an alarm off to alert individuals.
--Role: Had to design a raspberry pi circuit on fritzwing and then build it with physical hardware
+- Role: Had to design a raspberry pi circuit on fritzwing and then build it with physical hardware
 
 ### 🔹 ZeroDays CTF (Competition)
 - A cybersecurity based competition where we had to utilize related tools to find keywords to gain point
--Role: Team leader and player.
+- Role: Team leader and player.
 
 ---
 
